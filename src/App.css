@@ -1,0 +1,62 @@
+img{
+    
+    height: 500px;
+    width: 1280px;
+
+}
+.Penguin{
+    position:absolute;
+    top: 91%;
+    left: 55%;
+
+}
+.Rhino{
+    position:absolute;
+    top: 62%;
+    left: 55%;
+}
+.Leopard{
+    position:absolute;
+    top: 48%;
+    left: 49%;
+}
+.PolarBears{
+    position:absolute;
+    top: 22%;
+    left: 34%;
+}
+.Crocodiles{
+    position:absolute;
+    top: 55%;
+    left: 81%;
+}
+.Dolphins{
+    position:absolute;
+    top: 55%;
+    left: 10%;
+}
+.Pandas{
+    position:absolute;
+    top: 39%;
+    left: 78%;
+}
+.Whale{
+    position:absolute;
+    top: 77%;
+    left: 43%;
+}
+.Mink{
+    position:absolute;
+    top: 33%;
+    left: 54%;
+}
+.CaliCon{
+    position:absolute;
+    top: 37%;
+    left: 20%;
+}
+.Jaguars{
+    position:absolute;
+    top: 67%;
+    left: 30%;
+}
