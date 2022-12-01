@@ -9,7 +9,7 @@ class App extends Component {
         <img src ="/images/map.png" alt = ""/>
         <button class= "Penguin">Penguin</button>
         <button class= "Rhino">Rhino</button>
-        <button class= "Leopard">Leopard</button>
+        <button class= "Leopards">Leopard</button>
         <button class= "PolarBears">Polar Bears</button>
         <button class= "Crocodiles">Crocodiles</button>
         <button class= "Dolphins">Dolphins</button>
